@@ -8,7 +8,7 @@ const sums = (a,b) => a+b;
 const addTo = x => y => x + y
 var addToTen = addTo(10)
 addToTen(3)
- //answer is 30
+ //answer is 13
 
 //Currying: What does the last line return?
 const sum = (a, b) => a + b;
